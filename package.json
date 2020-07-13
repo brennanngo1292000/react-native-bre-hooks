@@ -1,0 +1,40 @@
+{
+  "name": "react-native-bre-hooks",
+  "version": "1.0.0",
+  "description": "The missing React Native Bre Hooks by brennan ngo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brennanngo1292000/react-native-bre-hooks.git"
+  },
+  "keywords": [
+    "react",
+    "reactnative",
+    "react-native",
+    "react-native-hooks",
+    "react-native-bre-hooks",
+    "hook",
+    "hooks"
+  ],
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*",
+    "react-native-vector-icons": "*",
+    "prop-types": "*"
+  },
+  "devDependencies": {
+    "prop-types": "^15.7.2",
+    "react": "16.13.1",
+    "react-native": "^0.61.4"
+  },
+  "dependencies": {},
+  "author": "brennanngo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brennanngo1292000/react-native-bre-hooks/issues"
+  },
+  "homepage": "https://github.com/brennanngo1292000/react-native-bre-hooks#readme"
+}
